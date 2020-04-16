@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16c3bff6-fe02-48c0-b480-711421d85fb8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZX1NvOQRvV1M7I1hCg2SCHFkPu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="majewski.mateusz.Main" />
+      <module name="ArrayChallenge" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16c3bff6-fe02-48c0-b480-711421d85fb8" name="Default Changelist" comment="" />
+      <created>1584970587696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584970587696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1397" height="207" key="GridCell.Tab.0.bottom" timestamp="1585052080397">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="207" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1585052080397" />
+    <state width="1877" height="242" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584981875511" />
+    <state width="1397" height="207" key="GridCell.Tab.0.center" timestamp="1585052080397">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="207" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1585052080397" />
+    <state width="1877" height="242" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584981875511" />
+    <state width="1397" height="207" key="GridCell.Tab.0.left" timestamp="1585052080397">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="207" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1585052080397" />
+    <state width="1877" height="242" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584981875510" />
+    <state width="1397" height="207" key="GridCell.Tab.0.right" timestamp="1585052080397">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="207" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1585052080397" />
+    <state width="1877" height="242" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584981875511" />
+    <state x="222" y="103" key="SettingsEditor" timestamp="1584970606974">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="222" y="103" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1584970606974" />
+    <state x="429" y="289" key="com.intellij.ide.util.TipDialog" timestamp="1585035620507">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="429" y="289" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1585035620507" />
+    <state x="171" y="87" key="new project wizard" timestamp="1585045050102">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="171" y="87" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1585045050102" />
+    <state x="383" y="195" key="search.everywhere.popup" timestamp="1584972464956">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1584972464956" />
+  </component>
+</project>
