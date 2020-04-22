@@ -67,10 +67,30 @@ public class LinkedList implements NodeList{
 
     @Override
     public boolean removeItem(ListItem item) {
-        ListItem currentItem = this.root;
-        if(currentItem.getValue() == item.getValue()){
-            System.out.println("The item has been removed");
+        if (item == null) {
+            System.out.println("Error while removing the item. Item value cannot be empty");
         }
-        return true;
+
+        ListItem currentItem = this.root;
+
+        while(currentItem != null) {
+            int comparison = currentItem.compareTo(item);
+            if (comparison == 0) {
+                if (currentItem == this.root) {
+                    this.root = currentItem.next();
+                } else {
+                    currentItem.previous().setNext(currentItem.next());
+                    if (currentItem.next() != null) {
+                        currentItem.previous().setPrevious(currentItem.previous());
+                    }
+                }
+                return true;
+            } else if (comparison < 0) {
+                currentItem = currentItem.next();
+            } else {
+                return false;
+            }
+        }
+        return false;
     }
 }

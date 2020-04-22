@@ -22,6 +22,8 @@ public class Main {
 
         list.removeItem(new Node("W"));
 
+        list.traverse(list.getRoot());
+
 
     }
 }
