@@ -33,6 +33,5 @@ public class Main {
 
 
         redDragons.matchResult(blueDragons, 3, 2);
-        System.out.println(redDragons.ranking());
     }
 }
