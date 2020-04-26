@@ -33,5 +33,16 @@ public class Main {
 
 
         redDragons.matchResult(blueDragons, 3, 2);
+//
+//        System.out.println("Rankings");
+//        System.out.println(redDragons.ranking());
+//        System.out.println(redBirds.ranking());
+//        System.out.println(redChickens.ranking());
+//        System.out.println(blueBirds.ranking());
+//        System.out.println(blueChickens.ranking());
+//        System.out.println(blueDragons.ranking());
+
+        System.out.println(redDragons.compareTo(blueDragons));
+        System.out.println(blueDragons.compareTo(redDragons));
     }
 }
