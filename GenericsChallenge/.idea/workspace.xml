@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -25,7 +28,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -66,6 +71,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="714" y="141" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587908179841" />
+    <state x="501" y="202" key="FileChooserDialogImpl" timestamp="1587993070912">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="202" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1587993070912" />
     <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1587921099392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -82,9 +91,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587921099392" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1587917999272">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="346" y="144" key="SettingsEditor" timestamp="1587989663808">
+      <screen x="0" y="0" width="1440" height="920" />
     </state>
+    <state x="346" y="144" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1587989663808" />
     <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587917999272" />
+    <state x="171" y="81" key="new project wizard" timestamp="1587993122302">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="171" y="81" key="new project wizard/0.0.1440.920@0.0.1440.920" timestamp="1587993122302" />
   </component>
 </project>
