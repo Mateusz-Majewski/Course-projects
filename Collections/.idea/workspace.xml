@@ -24,6 +24,10 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="majewski.mateusz.Main" />
@@ -35,6 +39,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,9 +59,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="526" y="177" key="#com.intellij.ide.util.MemberChooser" timestamp="1588166496837">
-      <screen x="0" y="0" width="1440" height="920" />
+    <state x="701" y="200" key="#com.intellij.ide.util.MemberChooser" timestamp="1588172591501">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="526" y="177" key="#com.intellij.ide.util.MemberChooser/0.0.1440.920@0.0.1440.920" timestamp="1588166496837" />
+    <state x="701" y="200" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588172591501" />
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588171872838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="412" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588171872838" />
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1588194950306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588194950306" />
+    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1588194950305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588194950305" />
+    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1588194950305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588194950305" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1588194950306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588194950306" />
   </component>
 </project>
